@@ -5,9 +5,11 @@
 Проект включает аутентификацию JWT для доступа пользователей и интеграцию с открытым API обменных курсов для получения данных об обменных курсах в режиме реального времени.
 
 Используемые технологии:
-Python
-FastAPI
-Pydantic
-JWT
-SQLAlchemy
-Pytest
+<ul>
+<li>Python</li>
+<li>FastAPI</li>
+<li>Pydantic</li>
+<li>JWT</li>
+<li>SQLAlchemy</li>
+<li>Pytest</li>
+</ul>
