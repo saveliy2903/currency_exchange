@@ -11,5 +11,6 @@
 <li>Pydantic</li>
 <li>JWT</li>
 <li>SQLAlchemy</li>
+<li>Alembic</li>
 <li>Pytest</li>
 </ul>
